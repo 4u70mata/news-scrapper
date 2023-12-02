@@ -10,12 +10,6 @@ The primary goal of this mini-project is to showcase:
 - **Data Collection**: Gathering football headlines, including titles, subtitles, and links, for analysis or further processing.
 - **Pipeline Development**: Demonstrating a simple data pipeline to collect, process, and store scraped information.
 
-### Tools and Libraries Used
-- **Python**: Programming language used for scripting.
-- **Selenium**: Automation tool for web scraping.
-- **Pandas**: Data manipulation and storage in DataFrames.
-- **WebDriver Manager**: Simplifies the management of web drivers.
-
 ### File Structure
 ```
 .
