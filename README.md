@@ -4,12 +4,6 @@
 ### Description
 This mini-project focuses on web scraping using Selenium, aiming to retrieve specific information from web pages related to football headlines. The project employs Python and Selenium to automate the browsing process and extract data from a sports news website.
 
-### Objective
-The primary goal of this mini-project is to showcase:
-- **Web Scraping**: Utilizing Selenium for automated data extraction from web pages.
-- **Data Collection**: Gathering football headlines, including titles, subtitles, and links, for analysis or further processing.
-- **Pipeline Development**: Demonstrating a simple data pipeline to collect, process, and store scraped information.
-
 ### File Structure
 ```
 .
