@@ -1,5 +1,3 @@
 # Ignore specific files and directories
 .git
 *.csv
-main.py
-tree.txt
